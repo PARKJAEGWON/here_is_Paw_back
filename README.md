@@ -1,5 +1,6 @@
 # 여기있개 프로젝트
 [사이트 바로가기](https://www.pawpaw.kknaks.site/)
+[개발저장소 바로가기]((https://github.com/Here-is-Paw))
 ## 개발기간
 2025년 02월 14일 (금) ~ 03월 17일 (월)
 ## 프로젝트 개요
